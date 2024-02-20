@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+**/models/
+Black Friday/submissions/*.csv
+!Black Friday/submissions/submission_cbr_13.csv
+Number of votes/submissions/*.csv
+!Number of votes/submissions/submission_lars_fin_zero.csv
